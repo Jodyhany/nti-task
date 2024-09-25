@@ -1,0 +1,49 @@
+/* body in blue */
+body{
+    background-color: aqua;
+}
+/* welcome massg */
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+/* postion both sides */
+.countainer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.color-white{
+    color: white;
+}
+.color-yellow{
+color: yellow;
+}
+.text-uprcase{
+    text-transform: uppercase;
+}
+.input-width{
+    width: 30rem;
+}
+
+.input-default{
+    padding: 25px;
+    margin: 20px;
+    border: none;
+}
+.texr-era{
+height: 5rem;
+}
+.submit{
+    border: 20px solid gold;
+    color: black;
+    background-color: gold;
+    border-radius: 20px;
+    margin-left:25rem;
+    cursor: pointer;
+}
+.text{
+    margin-top: 5rem;
+    margin-right: 40rem;
+}
