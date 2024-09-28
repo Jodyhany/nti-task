@@ -1,0 +1,60 @@
+/* reset all padiding and margin */
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aquamarine;
+}
+/* center the project */
+.margin-auto{
+    margin: auto ;
+}
+/* frame work */
+.height-auto{
+    height: auto;
+}
+.text-transform-cap{
+    text-transform: capitalize;
+}
+.font-size-30{
+    font-size: 30px;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+/*  */
+section{
+width: 40%;
+    background-color: white;
+    display: flex;
+}
+.card{
+    border: 1px dashed black;
+    width: 90%;
+    padding:20px ;
+
+}
+
+.img{
+    width: fit-content;
+}
+.field{
+    color: green;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 200px;
+    width: 60px;
+    margin: 10px;
+}
+.text .title{
+    margin: 10px;
+}
+.details span{
+padding: 5px;
+font-size: 15px;
+}
+.end p {
+    margin-top: 30px;
+}
