@@ -1,0 +1,128 @@
+*{
+    box-sizing: border-box;
+    margin:0 ;
+    padding: 0;
+}
+/* clean */
+.inline-block{
+    display: inline-block;
+ }
+ .border-red-15{
+     border-radius: 15px;
+ }
+.color-white{
+    color: #FFFFFF;
+}
+.witdh-50{
+    width: 50%;
+}
+.witdh-full{
+    width: 100%;
+}
+.box-main-color{
+    color: #0F0049;
+}
+.box-font-3rem{
+    font-size: 3rem;
+}
+.box-light-weight{
+    font-weight: 200;   
+}
+.box-hevy-weight{
+    font-weight: 900;
+}
+.countainer{
+    background-color: #0A85EA;
+}
+.text{
+ padding: 0.4%;
+}
+.text .about{
+    width: 40%;
+    padding: 5%;
+    margin: 0.5%;
+    font-size: 4rem;
+}
+.text .about a{
+  padding: 3%;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+.text .descrption{
+   line-height:3rem;
+   text-align: center;
+   margin: 0.2% auto;
+}
+.countainer .img {
+  margin: 0 auto 3% auto;
+ padding: 3%;
+}
+.static h3 {
+    color: #0F0049;
+    margin: 0.5% auto;
+    text-align: center; 
+    font-size: 3.3rem;
+}
+.static .box-holder {
+    margin: 5% 5%;
+    width: 95%;
+}
+.static .box-holder .box {
+    background-color: #F6F5F8;
+    width: 20%;
+   
+    vertical-align: middle;
+    padding: 2% 0;
+    margin: 0 2%;
+}
+.static .box-holder img {
+    background-color: #F6F5F8;
+    padding: 3% 5%;
+}
+.static .box-holder span {
+  padding: 3% 3%;
+}
+.static .box-holder p{
+ 
+   line-height: 20px;
+   height: 60px;
+   overflow: hidden;
+   padding: 0 3%;
+}
+.last-sec{
+    background-color: #0A85EA;
+    width: 80%;
+    margin: 0.5% auto ;
+    text-align: center;
+}
+.last-sec h1 {
+    font-size: 5rem;
+    padding: 4% 0 0 0;
+}
+.last-sec p{
+    padding: 1% 0 2% 0;
+    line-height: 20px;
+    height: 80px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.last-sec form{
+    margin: 2% 0;
+    padding: 1% 1%;
+    background-color: white;
+}
+.last-sec form input{
+    border: none;
+    width: 70%;
+    padding: 2% 1%;
+}
+.last-sec form button {
+    text-align: center;
+    outline: none;
+    width: 28%;
+    color: white;
+    background-color: #FF3A61;
+    padding: 3% 0;
+    border: none;
+}
+
