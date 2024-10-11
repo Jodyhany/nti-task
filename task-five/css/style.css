@@ -1,0 +1,19 @@
+:root{--main-color:#224F34}
+.text-none{text-decoration: none;}
+.tex-main-color{color: var(--main-color) !important;}
+.main-bg{background-color: var(--main-color)!important;}
+.log-in-btn{border: 1px solid var(--main-color);padding: 3% 0%;  width: 40%;}
+.mt-3 {margin-top: 3% !important;}
+.secend-bg{background-color: #C2EFD4;}
+.hero{background-image: url(../images/hero.png);  height: 30rem;background-size: contain;background-repeat: no-repeat;background-position: center;}
+.hero-img{ background-color: #6BC785;border-top-left-radius: 25%;border-top-right-radius: 11%;border-bottom-right-radius: 10%;  border-bottom-left-radius: 12%;height: 30rem;}
+.text-3rem{font-size: 3rem;}
+.witdh-30{width: 30%;}
+.card-img-top,.card{border: none!important;}
+.btn-custom{padding: 2% 8%; border: 2px solid var(--main-color);}
+.img-bg{background-image: url(../images/back-ground.png); background-repeat: no-repeat; background-size: contain; background-position: center;}
+.box{background-color: white;}
+.input{border: 1px solid #A3F3BE;}
+input{border: none;}
+input[type=submit]{background-color: #A3F3BE;}
+.line{height: 1px ; background-color: #A3F3BE;}
